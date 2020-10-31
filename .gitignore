@@ -1,0 +1,7 @@
+private.py
+.venv/
+venv/
+.pycache/
+*.pickle
+*.db
+*.sqlite3
